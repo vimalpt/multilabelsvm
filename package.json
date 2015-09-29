@@ -1,0 +1,23 @@
+{
+  "name": "multilabelsvm",
+  "version": "1.0.0",
+  "description": "multilabel svm classifier for browser/nodejs",
+  "main": "./lib/multilabelsvm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multilabel",
+    "classifiers",
+    "multiclass",
+    "classifiers",
+    "svmjs",
+    "svmclassifier",
+    "multiclass",
+    "svmclassifier",
+    "svm",
+    "nlp"
+  ],
+  "author": "vimalpt1",
+  "license": "ISC"
+}
