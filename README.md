@@ -23,7 +23,7 @@ You need to include svmjs for this.
 ```javascript
 // include the library
 <script src="./svmjs/lib/svm.js"></script>
-<script src="./lib/svm.js"></script>
+<script src="./lib/multilabelsvm.js"></script>
 <script>
 
 var actionClassifier = new Classifier({
